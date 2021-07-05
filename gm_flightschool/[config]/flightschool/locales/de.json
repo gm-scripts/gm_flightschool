@@ -1,0 +1,62 @@
+{
+  "blip_title": "Flugschule",
+  "press_e_theory": "Drücke ~INPUT_CONTEXT~ um deine Theorieprüfung für _price_$ zu machen",
+  "press_e": "Drücke ~INPUT_CONTEXT~ um einen Pilotenschein zu machen",
+  "no_exams": "Du hast bereits alle Prüfungen absolviert",
+  "currency": "_price_$",
+  "free": "Kostenlos",
+  "choose_exam": "Wähle eine Prüfung",
+  "menu": {
+    "exams": {
+      "plane": "Pilotenschein"
+    },
+    "welcome": {
+      "header": "Willkommen in der Flugschule!",
+      "title": "Die theoretische Prüfung",
+      "paragraphs": [
+        "Nachdem du deine theoretische Prüfung bestanden hast, wirst du eine praktische machen müssen.",
+        "Viel Glück!"
+      ],
+      "nextButtonLabel": "Beginnen"
+    },
+    "test": {
+      "nextButtonLabel": "Weiter"
+    },
+    "failed": {
+      "header": "Gescheitert",
+      "title": "Du hast die Prüfung nicht bestanden!",
+      "paragraphs": [
+        "Viel glück bei nächsten mal!",
+        "Du kannst die Prüfung erneut versuchen."
+      ],
+      "nextButtonLabel": "Schließen"
+    },
+    "passed": {
+      "header": "Bestanden",
+      "title": "Du hast die theoretische Prüfung bestanden!",
+      "paragraphs": [
+        "Du musst jetzt deine praktische Prüfung absolvieren, um einen gültigen Pilotenschein zu erhalten."
+      ],
+      "nextButtonLabel": "Schließen"
+    }
+  },
+  "checkPoints": {
+    "stop_for_passing": "~r~Stop~s~ für vorbeifahrende Fahrzeuge!",
+    "rotate_left": "Drehe nach Links",
+    "rotate_right": "Drehe nach Rechts",
+    "rotate_right_sharp": "Drehe scharf nach rechts",
+    "go_straight": "Fahre geradeaus",
+    "rotate_to_runway": "Drehe nun zur Landebahn",
+    "rotate_more_to_runway": "Drehe weiter zur Landebahn",
+    "increase_speed": "Erhöhe deine Geschwindigkeit",
+    "increase_speed_more": "Erhöhe weiter deine Geschwindigkeit",
+    "take_off_and_land": "Nun kannst du abheben, drehe eine Runde und lande wieder auf dieser Landebahn",
+    "good_landing": "Schöne Landung!",
+    "rotate_more_right": "Drehe weiter nach rechts",
+    "rotate_more_left": "Drehe weiter nach links"
+  },
+  "damaged": "~r~Du hast das Fahrzeug beschädigt",
+  "mistakes": "~r~Fehler: _mistakes_/_max_",
+  "passed": "Du hast die Prüfung bestanden",
+  "failed": "Du hast die Prüfung nicht bestanden, viel Glück beim nächsten mal"
+}

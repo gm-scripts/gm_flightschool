@@ -1,0 +1,38 @@
+[
+  {
+    "header": "Question 1/4",
+    "question": "What units are used to measure in international airspace",
+    "a": "Knots / Feed",
+    "b": "Mph / Feed",
+    "c": "Km/h / Yards",
+    "d": "Km/h / Meter",
+    "correct": "a"
+  },
+  {
+    "header": "Question 2/4",
+    "question": "In which direction do you swerve to avoid an aircraft collision?",
+    "a": "To the right",
+    "b": "Up",
+    "c": "Down",
+    "d": "To the left",
+    "correct": "a"
+  },
+  {
+    "header": "Question 3/4",
+    "question": "The curve on top of an airplane wing helps to do what?",
+    "a": "BOffers more space for missiles",
+    "b": "Decreases pressure on top of the wing",
+    "c": "Controls yaw",
+    "d": "Makes it look cooler",
+    "correct": "b"
+  },
+  {
+    "header": "Question 4/4",
+    "question": "It takes you eight hours to fly a distance if you fly at a speed of 100kt. How fast do you need to fly if you want to make the same distance in 6 hours?",
+    "a": "125kt",
+    "b": "150kt",
+    "c": "175kt",
+    "d": "200kt",
+    "correct": "b"
+  }
+]

@@ -1,0 +1,62 @@
+{
+    "blip_title": "Flight school",
+    "press_e_theory": "Press ~INPUT_CONTEXT~ to do your theory check for $_price_",
+    "press_e": "Press ~INPUT_CONTEXT~ to make a flight check",
+    "no_exams": "You have already completed all exams",
+    "currency": "$_price_",
+    "free": "free",
+    "choose_exam": "Choose an exam",
+    "menu": {
+      "exams": {
+        "plane": "Pilot's license"
+      },
+      "welcome": {
+        "header": "Welcome to the flight school!",
+        "title": "The theoretical test",
+        "paragraphs": [
+          "After you have passed your theoretical test, you will have to take a practical one.",
+          "Good luck!"
+        ],
+        "nextButtonLabel": "Start"
+      },
+      "test": {
+        "nextButtonLabel": "Next"
+      },
+      "failed": {
+        "header": "Failed",
+        "title": "You have not passed the exam!",
+        "paragraphs": [
+          "Better luck next time!",
+          "You can try the exam again."
+        ],
+        "nextButtonLabel": "Close"
+      },
+      "passed": {
+        "header": "Passed",
+        "title": "You have passed the theoretical flight test!",
+        "paragraphs": [
+          "You must now take your practical test to obtain a valid pilot's license."
+        ],
+        "nextButtonLabel": "Close"
+      }
+    },
+    "checkPoints": {
+      "stop_for_passing": "~r~Stop~s~ for passing vehicles!",
+      "rotate_left": "Turn to the left",
+      "rotate_right": "Turn to the right",
+      "rotate_right_sharp": "Turn sharp to the right",
+      "go_straight": "Go straight",
+      "rotate_to_runway": "Turn now to runway",
+      "rotate_more_to_runway": "Continue turning to the runway",
+      "increase_speed": "Increase your speed",
+      "increase_speed_more": "Continue to increase your speed",
+      "take_off_and_land": "Now you can take off, turn one lap and land on this runway",
+      "good_landing": "Good landing!",
+      "rotate_more_right": "Keep turning to the right",
+      "rotate_more_left": "Keep turning to the left"
+    },
+    "damaged": "~r~You have damaged the vehicle",
+    "mistakes": "~r~Mistakes: _mistakes_/_max_",
+    "passed": "You have passed the exam",
+    "failed": "You failed the exam, better luck next time"
+  }

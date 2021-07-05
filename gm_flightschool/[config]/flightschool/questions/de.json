@@ -1,0 +1,38 @@
+[
+  {
+    "header": "Frage 1/4",
+    "question": "In was für einer Einheit wird bei internationalen Flugzeugen gemessen?",
+    "a": "Knots (Knoten) / Feed (Fuß)",
+    "b": "Mph / Feed (Fuß)",
+    "c": "Km/h / Yards",
+    "d": "Km/h / Meter",
+    "correct": "a"
+  },
+  {
+    "header": "Frage 2/4",
+    "question": "In welche Richtung weicht man bei einer Flugzeugkolision aus, die man verhindern möchte?",
+    "a": "Nach rechts",
+    "b": "Nach oben",
+    "c": "Nach unten",
+    "d": "Nach links",
+    "correct": "a"
+  },
+  {
+    "header": "Frage 3/4",
+    "question": "Wozu dient die Kurve auf der Oberseite eines Flugzeugflügels?",
+    "a": "Bietet mehr Platz für Raketen",
+    "b": "Verringert den Druck auf die Oberseite des Flügels",
+    "c": "Steuert das Gieren",
+    "d": "Lässt es cooler aussehen",
+    "correct": "b"
+  },
+  {
+    "header": "Frage 4/4",
+    "question": "Du benötigst für eine Strecke acht Stunden, wenn du mit einer Geschwindigkeit von 100kt fliegst. Wie schnell musst du fliegen wenn du die gleiche Strecke in 6 Stunden schaffen möchtest?",
+    "a": "125kt",
+    "b": "150kt",
+    "c": "175kt",
+    "d": "200kt",
+    "correct": "b"
+  }
+]

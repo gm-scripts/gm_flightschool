@@ -1,0 +1,250 @@
+{
+  "framework": "esx",
+  "lang": "en",
+  "keys": {
+    "openMenu": 38
+  },
+  "maxMistakes": {
+    "theoryExam": 2,
+    "practicalExam": 5
+  },
+  "prices": {
+    "allFree": false,
+    "theory": 1200,
+    "practice": 2200
+  },
+  "school": {
+    "marker": {
+      "x": -1082.09,
+      "y": -2326.29,
+      "z": 13.11
+    },
+    "spawn": {
+      "x": -1106.59,
+      "y": -2319.89,
+      "z": 12.94,
+      "h": 149.5
+    },
+    "showBlip": true
+  },
+  "vehicle": {
+    "plane": {
+      "model": "mammatus",
+      "color": 30,
+      "livery": 0
+    }
+  },
+  "menuColors": {
+    "backgroundPrimary": "#4a4a55",
+    "backgroundSecondary": "#35353f",
+    "colorPrimary": "#23bf7c",
+    "colorSecondary": "#299465",
+    "colorCorrect": "#33cc33",
+    "colorFalse": "#cc3333",
+    "textPrimary": "#f7f7f7",
+    "textSecondary": "#dfdfdf"
+  },
+  "markers": {
+    "school": {
+      "type": 1,
+      "height": 0,
+      "direction": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "scale": {
+        "x": 1.5,
+        "y": 1.5,
+        "z": 1.0
+      },
+      "color": {
+        "r": 35,
+        "g": 191,
+        "b": 124
+      },
+      "alpha": 100,
+      "bob": false,
+      "face": false,
+      "distance": {
+        "show": 100.0,
+        "open": 1.5
+      }
+    },
+    "checkPoint": {
+      "type": 20,
+      "height": 2,
+      "direction": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 180.0,
+        "z": 0.0
+      },
+      "scale": {
+        "x": 1.5,
+        "y": 1.5,
+        "z": 1.0
+      },
+      "color": {
+        "r": 35,
+        "g": 191,
+        "b": 124
+      },
+      "alpha": 100,
+      "bob": true,
+      "face": true,
+      "distance": {
+        "show": 100.0,
+        "open": 4.0
+      }
+    }
+  },
+  "blip": {
+    "id": 498,
+    "color": 3,
+    "size": 1.0
+  },
+  "checkPoints": [
+    {
+      "type": "stop_for_passing",
+      "x": -1157.52,
+      "y": -2408.13,
+      "z": 11.95
+    },
+    {
+      "type": "rotate_left",
+      "x": -1195.8,
+      "y": -2404.17,
+      "z": 11.95
+    },
+    {
+      "type": "rotate_right",
+      "x": -1213.73,
+      "y": -2430.54,
+      "z": 11.95
+    },
+    {
+      "type": "rotate_left",
+      "x": -1341.32,
+      "y": -2416.04,
+      "z": 11.95
+    },
+    {
+      "type": "rotate_right_sharp",
+      "x": -1366.1,
+      "y": -2451.86,
+      "z": 11.95
+    },
+    {
+      "type": "go_straight",
+      "x": -1384.2,
+      "y": -2405.93,
+      "z": 11.95
+    },
+    {
+      "type": "rotate_to_runway",
+      "x": -1275.39,
+      "y": -2228.73,
+      "z": 11.94
+    },
+    {
+      "type": "rotate_more_to_runway",
+      "x": -1282.44,
+      "y": -2186.37,
+      "z": 11.94
+    },
+    {
+      "type": "increase_speed",
+      "x": -1330.41,
+      "y": -2200.19,
+      "z": 11.98
+    },
+    {
+      "type": "increase_speed_more",
+      "x": -1410.12,
+      "y": -2338.87,
+      "z": 11.95
+    },
+    {
+      "type": "take_off_and_land",
+      "x": -1484.24,
+      "y": -2467.11,
+      "z": 11.95
+    },
+    {
+      "type": "good_landing",
+      "x": -1410.12,
+      "y": -2338.87,
+      "z": 11.95
+    },
+    {
+      "type": "rotate_right",
+      "x": -1330.41,
+      "y": -2200.19,
+      "z": 11.98
+    },
+    {
+      "type": "rotate_more_right",
+      "x": -1282.44,
+      "y": -2186.37,
+      "z": 11.94
+    },
+    {
+      "type": "go_straight",
+      "x": -1275.39,
+      "y": -2228.73,
+      "z": 11.94
+    },
+    {
+      "type": "rotate_left",
+      "x": -1384.2,
+      "y": -2405.93,
+      "z": 11.95
+    },
+    {
+      "type": "rotate_more_left",
+      "x": -1366.1,
+      "y": -2451.86,
+      "z": 11.95
+    },
+    {
+      "type": "rotate_right",
+      "x": -1341.32,
+      "y": -2416.04,
+      "z": 11.95
+    },
+    {
+      "type": "rotate_left",
+      "x": -1213.73,
+      "y": -2430.54,
+      "z": 11.95
+    },
+    {
+      "type": "rotate_right",
+      "x": -1195.8,
+      "y": -2404.17,
+      "z": 11.95
+    },
+    {
+      "type": "rotate_left",
+      "x": -1157.52,
+      "y": -2408.13,
+      "z": 11.95
+    },
+    {
+      "type": "last_point",
+      "x": -1108.31,
+      "y": -2322.91,
+      "z": 11.94
+    }
+  ]
+}
